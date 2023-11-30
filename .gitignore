@@ -1,1 +1,5 @@
 index.html
+.vscode
+.idea
+.vscodeignore
+vsc-extension-quickstart.md
