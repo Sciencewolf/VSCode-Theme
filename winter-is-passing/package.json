@@ -1,0 +1,21 @@
+{
+  "name": "winter-is-passing",
+  "displayName": "Winter Is Passing",
+  "description": "Theme for HTML, CSS, JavaScript code in VS Code. Developed by Sciencewolf.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Winter Is Passing",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Winter Is Passing-color-theme.json"
+      }
+    ]
+  }
+}
